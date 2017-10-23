@@ -1,4 +1,4 @@
 # Currency-converter_with-API
 Currency converter (Yahoo API)
 
-!(https://pp.userapi.com/c837428/v837428615/6864f/tEfDIWcjGjQ.jpg)
+![alt-текст](https://pp.userapi.com/c837428/v837428615/6864f/tEfDIWcjGjQ.jpg)
